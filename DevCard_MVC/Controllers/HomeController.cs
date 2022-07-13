@@ -23,7 +23,7 @@ namespace DevCard_MVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Contact()
         {
             return View();
         }
